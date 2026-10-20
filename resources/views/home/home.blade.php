@@ -4,7 +4,7 @@
 
 
 <h1>Popular Movies</h1>
-
+<h1>Popular Movieeeeees</h1>
 <div class="movies-container">
     @foreach($movies as $movie)
         <div class="movie">
